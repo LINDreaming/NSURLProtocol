@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="10171" systemVersion="15C50" minimumToolsVersion="Automatic">
+    <entity name="CachedURLResponse" representedClassName="CachedURLResponse">
+        <attribute name="data" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="encoding" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="mimeType" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="timestamp" optional="YES" attributeType="Date">
+            <userInfo/>
+        </attribute>
+        <attribute name="url" optional="YES" attributeType="String" syncable="YES"/>
+        <userInfo/>
+    </entity>
+    <elements>
+        <element name="CachedURLResponse" positionX="261" positionY="189" width="128" height="120"/>
+    </elements>
+</model>
